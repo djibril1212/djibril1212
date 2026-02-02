@@ -15,6 +15,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=djibril1212&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djibril1212&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/djibril1212)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
