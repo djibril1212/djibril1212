@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80" />
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Djibril+%F0%9F%91%8B;Software+Developer+%40+Soci%C3%A9t%C3%A9+G%C3%A9n%C3%A9rale;Full-Stack+%7C+TypeScript+%7C+Java;AI+enthusiast+%F0%9F%A4%96;Always+building+cool+stuff+%E2%9A%A1" alt="Typing SVG" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=djibril1212&color=58A6FF&style=flat-square)
