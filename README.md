@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDc0eTQ4cDB3bmw1aHg5bnRvdWFyMDBoNmtiMDhhcW80Y2h0aTZ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b6RBvuYwkn3F81UX7d/giphy.gif)" width="80" />
+
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Djibril+%F0%9F%91%8B;Software+Developer+%40+Soci%C3%A9t%C3%A9+G%C3%A9n%C3%A9rale;Full-Stack+%7C+TypeScript+%7C+Java;AI+enthusiast+%F0%9F%A4%96;Always+building+cool+stuff+%E2%9A%A1" alt="Typing SVG" />
 
