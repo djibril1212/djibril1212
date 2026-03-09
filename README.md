@@ -41,12 +41,6 @@
 
 ---
 
-## 🏆 3D Contribution Graph
-
-![3D Contribution Graph](https://raw.githubusercontent.com/djibril1212/djibril1212/main/profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
