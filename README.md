@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Djibril+%F0%9F%91%8B;Software+Developer+%40+Soci%C3%A9t%C3%A9+G%C3%A9n%C3%A9rale;Full-Stack+%7C+TypeScript+%7C+Java;AI+enthusiast+%F0%9F%A4%96;Always+building+cool+stuff+%E2%9A%A1" alt="Typing SVG" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=djibril1212&color=58A6FF&style=flat-square)
+
+  ![Open to Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-%2300C853.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Commits 2025](https://img.shields.io/github/commit-activity/y/djibril1212/djibril1212?style=for-the-badge&label=Commits%202025&color=58A6FF)
 </div>
 
 ---
@@ -46,3 +49,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Djibril&fontSize=24&fontColor=ffffff&fontAlignY=70" />
+</div>
