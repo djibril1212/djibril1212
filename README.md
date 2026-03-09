@@ -28,12 +28,6 @@
 
 ---
 
-## 🗺️ Contribution Map
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/djibril1212)
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
